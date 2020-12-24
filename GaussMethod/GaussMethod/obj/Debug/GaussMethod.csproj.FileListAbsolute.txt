@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe.config
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\bin\Debug\GaussMethod.pdb
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\obj\Debug\GaussMethod.GaussMethod.resources
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\obj\Debug\GaussMethod.Properties.Resources.resources
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\obj\Debug\GaussMethod.exe
+C:\Users\User\Desktop\Материалы\2 курс\Алгебра\GaussMethod\GaussMethod\obj\Debug\GaussMethod.pdb
