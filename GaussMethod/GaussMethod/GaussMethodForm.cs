@@ -51,7 +51,7 @@ namespace GaussMethod
             {
                 for (int j = 0; j < k - 1; j++)
                     richTextBox1.Text += Matrix[i, j] + " ";
-                richTextBox1.Text += "\t" + Matrix[i, n] + "\n";
+                richTextBox1.Text += "\t" + Matrix[i, k - 1] + "\n";
             }
             richTextBox1.Text += "///////////////////////////\n";
         }//Вывод матрицы в текстбокс
@@ -113,14 +113,13 @@ namespace GaussMethod
             for (int i = Line + 1; i < n; i++)
             {
                 double coeff = Matrix[i, Line];
-                Matrix[i, Line] = 0;
-                for (int j = Line+1; j < k; j++)
+                for (int j = Line; j < k; j++)
                 {
                     Matrix[i, j] -= Matrix[Line, j] * coeff;
                 }
-                for (int j = i + 1; j < k - 1; j++)
-                    if (Matrix[i, j] != 0) break;
-                    else Matrix[i, k - 1] = 0;
+                //for (int j = i + 1; j < k - 1; j++)
+                //    if (Matrix[i, j] != 0) break;
+                //    else Matrix[i, k - 1] = 0; вроде не нужно больше
             }
         }//Работа со строкой при прямом ходе
 
@@ -147,16 +146,23 @@ namespace GaussMethod
             double[] Result = new double[n];
 
             for (int i = 0; i < n; i++)
+            {
                 for (int j = 0; j < k - 1; j++)
+                {
                     Result[i] += Matrix[i, j] * Vector[j];//Перемножаем вектор-ответ с изначальной матрицей
+                }
+            }
             for (int i = 0; i < n; i++)
+            {
                 Result[i] = Matrix[i, k - 1] - Result[i];//Находим вектор невязки
+            }
             return Result;
         }
 
         private void Calculate_Click(object sender, EventArgs e)
         {
-            string file = "In.txt";
+            string file = tbIn.Text;
+
             int i = MatrixLines(file);// i - строки
             int j = MatrixColumns(file);// j - столбцы
 

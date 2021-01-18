@@ -87,8 +87,8 @@ namespace LagrangeInterpol
             pane.CurveList.Clear();
             PointPairList list = new PointPairList();
 
-            double xmin = -100;
-            double xmax = 100;
+            double xmin = -3;
+            double xmax = 2;
 
             for (double x = xmin; x <= xmax; x += 0.01)
             {
@@ -102,7 +102,7 @@ namespace LagrangeInterpol
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string file = "In3.txt";
+            string file = "In4.txt";
 
             int n = MatrixLines(file);
             double[,] Matrix = new double[n, 2];

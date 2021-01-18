@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\bin\Debug\IterInterpolJacobi.exe.config
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\bin\Debug\IterInterpolJacobi.exe
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\bin\Debug\IterInterpolJacobi.pdb
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\obj\Debug\IterInterpolJacobi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\obj\Debug\IterInterpolJacobi.Form1.resources
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\obj\Debug\IterInterpolJacobi.Properties.Resources.resources
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\obj\Debug\IterInterpolJacobi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\obj\Debug\IterInterpolJacobi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\obj\Debug\IterInterpolJacobi.exe
+C:\Users\User\Desktop\Материалы\2 курс\Numerical_Methods\IterInterpolJacobi\IterInterpolJacobi\obj\Debug\IterInterpolJacobi.pdb
