@@ -87,8 +87,8 @@ namespace LagrangeInterpol
             pane.CurveList.Clear();
             PointPairList list = new PointPairList();
 
-            double xmin = -3;
-            double xmax = 2;
+            double xmin = -1;
+            double xmax = 1;
 
             for (double x = xmin; x <= xmax; x += 0.01)
             {
